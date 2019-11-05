@@ -7,3 +7,5 @@ gem 'cucumber'
 gem 'page-object'
 
 gem 'spec'
+
+gem 'ffi'
